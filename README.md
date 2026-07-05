@@ -24,7 +24,7 @@ The core of `typeAI` relies on a robust and scalable scientific stack:
     * `/src/pipelines` — Data prep operations handling NumPy arrays and Pandas DataFrames.
 * `/config` — Framework hyperparameter mappings and hardware allocation configurations.
 * `/tests` — Statistical validation frameworks and deep learning performance benchmarks.
-* `/data` — Local storage maps for model checkpoints and pre-computed embedding metrics.
+* `/data` — Local storage maps for model checkpoints and pre-computed embedding metrics..
 
 ## Setup and Initialization Environment
 
