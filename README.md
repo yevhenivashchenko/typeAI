@@ -2,7 +2,7 @@
 
 An advanced Intelligence Engine built with Python, utilizing state-of-the-art deep learning frameworks and high-performance data processing libraries for complex text automation and cognitive computations.
 
-## Technical Architecture & Core Technologies\\\\
+## Technical Architecture & Core Technologies\\\\\
 
 The core of `typeAI` relies on a robust and scalable scientific stack:
 
