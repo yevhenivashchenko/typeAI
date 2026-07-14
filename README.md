@@ -1,6 +1,6 @@
 # typeAI
 
-An advanced Intelligence Engine built with Python, utilizing state-of-the-art deep learning frameworks and high-performance data processing libraries for complex text automation and cognitive computations.
+An advanced Intelligence Engine built with Python, utilizing state-of-the-art deep learning frameworks and high-performance data processing libraries for complex text automation and cognitive computations..
 
 ## Technical Architecture & Core Technologies\\\\\
 
