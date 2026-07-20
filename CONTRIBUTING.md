@@ -1,6 +1,6 @@
 # Contributing to typeAI
 
-Welcome to **typeAI**! We are excited to have you contribute to our Intelligence Engine.
+Welcome to **typeAI**! We are excited to have you contribute to our Intelligence Engine..
 
 Our goal is to build a robust tool for content automation and cognitive computing, leveraging state-of-the-art deep learning frameworks and high-performance data processing libraries. This guide will help you get started quickly and propose your improvements.
 
