@@ -31,3 +31,18 @@ The core of `typeAI` relies on a robust and scalable scientific stack:
 1. Clone the master origin branch:
    ```bash
    git clone [https://github.com/yevhenivashchenko/typeAI.git](https://github.com/yevhenivashchenko/typeAI.git)
+
+
+## next step for one skill-name/AI
+   skill-name/AI
+├── SKILL.md              # Required: metadata + instructions
+├── scripts/              # Optional: executable code
+│   ├── validate.py
+│   ├── deploy.sh
+│   └── README.md
+├── references/           # Optional: documentation links
+│   ├── api-reference.md
+│   └── examples.md
+└── assets/               # Optional: templates, data
+    ├── template.yaml
+    └── config-example.json
