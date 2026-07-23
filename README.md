@@ -32,7 +32,6 @@ The core of `typeAI` relies on a robust and scalable scientific stack:
    ```bash
    git clone [https://github.com/yevhenivashchenko/typeAI.git](https://github.com/yevhenivashchenko/typeAI.git)
 
-
 ## next step for one skill-name/AI
    skill-name/AI
 ├── SKILL.md              # Required: metadata + instructions
