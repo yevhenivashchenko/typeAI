@@ -29,7 +29,7 @@ This layer abstracts the complexity of working with dual deep learning backends.
 
 ### 3. Execution & Telemetry Engine
 * **Async Workers**: High-throughput asynchronous routines manage task scheduling and hardware allocation (CPU/GPU).
-* **Telemetry**: Pandas-driven metrics collection provides real-time insights into pipeline performance, model latency, and data throughput.
+* **Telemetry**: Pandas-driven metrics collection provides real-time insights into pipeline performance, model latency, and data throughput./
 
 ## Data Flow
 1. **Input**: Data enters via asynchronous API/stream endpoints.
