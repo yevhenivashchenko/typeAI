@@ -1,6 +1,6 @@
 # Architecture Overview: typeAI
 
-typeAI is an advanced Intelligence Engine designed to orchestrate complex text automation and cognitive computations. The architecture leverages a high-performance stack combining asynchronous application logic with robust deep learning frameworks to ensure scalability and efficiency.....................
+typeAI is an advanced Intelligence Engine designed to orchestrate complex text automation and cognitive computations. The architecture leverages a high-performance stack combining asynchronous application logic with robust deep learning frameworks to ensure scalability and efficiency......................
 
 ## High-Level System Design
 
